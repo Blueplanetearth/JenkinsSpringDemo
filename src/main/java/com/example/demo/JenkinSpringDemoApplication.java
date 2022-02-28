@@ -9,7 +9,7 @@ public class JenkinSpringDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinSpringDemoApplication.class, args);
 		
-		System.out.println("Hello Jenkins from Springboot");
+		System.out.println("Hello Jenkins from Springboot project deploy on Github");
 	}
 
 }
